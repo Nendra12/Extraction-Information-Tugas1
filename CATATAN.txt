@@ -1,0 +1,2 @@
+Mengambil entitas -> NER (Named Entity Recognition)
+apakah ada relasi antar entitas -> RE
